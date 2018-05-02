@@ -1,4 +1,4 @@
-# Scrolling With Click-and-Drag
+# Scrolling with Click-and-Drag
 
 This simple application demonstrates one way to accomplish click-and-drag scrolling, a modern feature that is somewhat tricky to implement. In the end the action is handled by several event listeners that take in coordinate information from the page to set where the beginning and end points of the scrolling event takes place.
 
